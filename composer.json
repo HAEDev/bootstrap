@@ -32,6 +32,6 @@
     }
   },
   "replace": {
-    "twitter/bootstrap": "self.version"
+    "twitter/bootstrap4": "self.version"
   }
 }
